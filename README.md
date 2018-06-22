@@ -1,3 +1,6 @@
+View this project at: https://kellyhook.github.io/unit-4-game/
+
+
 # jQuery Assignment
 
 ### Overview
